@@ -1,5 +1,5 @@
-# GC_track4_sourcecode_GIST
-Grand Challenge track 4 sourcecode developed by GIST
+# 2020GC4_track2_sourcecode_GIST
+2020 AI grand challenge 4차 대회 2트랙 developed by GIST
 
 # 과제 개요(2020 Grand Challenge 4차 개요)
 사회안전망 강화
